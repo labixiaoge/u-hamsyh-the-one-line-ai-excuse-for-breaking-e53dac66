@@ -1,0 +1,1 @@
+The migration was 99% safe according to my confidence interval. I deployed the other 1%.
